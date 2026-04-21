@@ -1,3 +1,4 @@
+//item class for inventory system
 public class Item {
     private String itemId;
     private String itemName;
