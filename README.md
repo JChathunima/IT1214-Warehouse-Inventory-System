@@ -32,7 +32,6 @@ It allows users to manage inventory through a console-based menu.
 5. Search by Name
 6. Display All Items
 0. Exit
-
 Enter choice: 1
 Enter ID: I001
 Enter Name: Pen
@@ -40,3 +39,4 @@ Enter Quantity: 50
 Enter Price: 20.5
 
 Item added successfully!
+this is my IT1214assignment project
